@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gradupchallenge/precache-manifest.cf7cfa070cff18b82eb68d60520442dc.js"
+  "/gradupchallenge/precache-manifest.2c6acd7e96fc387f13add71b82f87ab7.js"
 );
 
 self.addEventListener('message', (event) => {
