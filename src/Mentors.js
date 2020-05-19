@@ -7,6 +7,8 @@ import Button from 'react-bootstrap/Button';
 import Image from 'react-bootstrap/Image'
 import Card from 'react-bootstrap/Card'
 import StarRatings from 'react-star-ratings';
+import useState from 'react';
+import Modal from 'react-bootstrap/Modal'
 
 
 // function MentorCard(props) {
@@ -76,6 +78,7 @@ function MentorCard(props) {
 
 function MentorGrid(props){
   return (
+    <>
     <CardGrid>
       {mentors.map((card, i) => {       
           return (
@@ -83,6 +86,7 @@ function MentorGrid(props){
           ) 
         })}
     </CardGrid>
+    </>
   );
 }
 function createMentorData(name, photo, job, location, description, price, rating) {
