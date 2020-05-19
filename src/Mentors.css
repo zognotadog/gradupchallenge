@@ -1,0 +1,70 @@
+.mentorCard {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+}
+
+.photoArea {
+  flex: 0 0 230px;
+  max-height: 150;
+}
+
+.imageArea {
+  height: 65%;
+  max-width: 100%;
+  max-height: 65%;
+  text-align: center;
+}
+
+.ratingArea {
+  height: 35%;
+  max-height: inherit;
+  text-align: center;
+}
+
+.locationArea {
+  padding-top: 10px;
+  font-weight: bold;
+}
+.detailsArea {
+  flex: 4;
+}
+
+.detailsArea .title {
+  font-weight: 500;
+  font-size: 29px;
+}
+
+.detailsArea .subtitle {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.detailsArea .text {
+  padding-top: 9px;
+  padding-right: 9px;
+}
+
+
+.priceArea {
+  flex: 0 0 230px;
+  height: 100%;
+}
+
+.priceAreaCost {
+  height: 75%;
+  padding-top: 20%;
+  padding-bottom: 10%;
+  text-align: center;
+}
+
+.priceAreaButton {
+  height: auto;
+}
+
+.imageArea img {
+  width: 150px;
+  height: 150px;
+  padding: 10px;
+
+}
