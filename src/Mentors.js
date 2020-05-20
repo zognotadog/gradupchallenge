@@ -141,10 +141,10 @@ function ProfileModal(user){
     </Card>
     <Card>
       <Card.Title>Outstanding Job</Card.Title>
-      <Card.Subtitle>Thanks mentor for an outstanding job! I appreciated your engagement on the last mile and the energy you put into the succesful completion. Your skills, coaching and detailled reports were highly useful and I am looking forward to engage you again.</Card.Subtitle>
+      <p>Thanks mentor for an outstanding job! I appreciated your engagement on the last mile and the energy you put into the succesful completion. Your skills, coaching and detailled reports were highly useful and I am looking forward to engage you again.</p>
     </Card>
     </div>
-    
+
     </>
   );
 }
