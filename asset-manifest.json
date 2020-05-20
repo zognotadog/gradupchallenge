@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/gradupchallenge/static/css/main.11e463b8.chunk.css",
-    "main.js": "/gradupchallenge/static/js/main.c3eb3b4b.chunk.js",
-    "main.js.map": "/gradupchallenge/static/js/main.c3eb3b4b.chunk.js.map",
+    "main.css": "/gradupchallenge/static/css/main.751a9c5c.chunk.css",
+    "main.js": "/gradupchallenge/static/js/main.51185a3e.chunk.js",
+    "main.js.map": "/gradupchallenge/static/js/main.51185a3e.chunk.js.map",
     "runtime-main.js": "/gradupchallenge/static/js/runtime-main.fad5784c.js",
     "runtime-main.js.map": "/gradupchallenge/static/js/runtime-main.fad5784c.js.map",
     "static/css/2.de424728.chunk.css": "/gradupchallenge/static/css/2.de424728.chunk.css",
-    "static/js/2.d50f33b5.chunk.js": "/gradupchallenge/static/js/2.d50f33b5.chunk.js",
-    "static/js/2.d50f33b5.chunk.js.map": "/gradupchallenge/static/js/2.d50f33b5.chunk.js.map",
+    "static/js/2.4cbf9775.chunk.js": "/gradupchallenge/static/js/2.4cbf9775.chunk.js",
+    "static/js/2.4cbf9775.chunk.js.map": "/gradupchallenge/static/js/2.4cbf9775.chunk.js.map",
     "index.html": "/gradupchallenge/index.html",
-    "precache-manifest.2c6acd7e96fc387f13add71b82f87ab7.js": "/gradupchallenge/precache-manifest.2c6acd7e96fc387f13add71b82f87ab7.js",
+    "precache-manifest.8a8399ddb80fe14bda180c24793402b5.js": "/gradupchallenge/precache-manifest.8a8399ddb80fe14bda180c24793402b5.js",
     "service-worker.js": "/gradupchallenge/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/gradupchallenge/static/css/2.de424728.chunk.css.map",
-    "static/css/main.11e463b8.chunk.css.map": "/gradupchallenge/static/css/main.11e463b8.chunk.css.map",
-    "static/js/2.d50f33b5.chunk.js.LICENSE.txt": "/gradupchallenge/static/js/2.d50f33b5.chunk.js.LICENSE.txt",
+    "static/css/main.751a9c5c.chunk.css.map": "/gradupchallenge/static/css/main.751a9c5c.chunk.css.map",
+    "static/js/2.4cbf9775.chunk.js.LICENSE.txt": "/gradupchallenge/static/js/2.4cbf9775.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/gradupchallenge/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.fad5784c.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.d50f33b5.chunk.js",
-    "static/css/main.11e463b8.chunk.css",
-    "static/js/main.c3eb3b4b.chunk.js"
+    "static/js/2.4cbf9775.chunk.js",
+    "static/css/main.751a9c5c.chunk.css",
+    "static/js/main.51185a3e.chunk.js"
   ]
 }
