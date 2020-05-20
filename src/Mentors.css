@@ -1,3 +1,9 @@
+.card-area {
+  width: 80%;
+  max-width: 80%;
+  margin: auto;
+}
+
 .mentorCard {
   display: flex;
   flex-direction: row;
@@ -43,6 +49,7 @@
 .detailsArea .text {
   padding-top: 9px;
   padding-right: 9px;
+  margin-right: 10px;
 }
 
 
@@ -67,4 +74,89 @@
   height: 150px;
   padding: 10px;
 
+}
+
+.modal-styling {
+  max-width: 70%!important;
+  height: 500px;
+  max-height: 500px;
+  background-color: white;
+}
+
+.modal-header {
+  max-height: 20%;
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.photo {
+  flex: 0 0 230px;
+  height: 100%;
+  max-width: 100%;
+  max-height: 150;
+  text-align: center;
+}
+
+.modal-header .name {
+  flex: 2;
+  height: 100%;
+  margin-left: 30px;
+  margin-top: 40px;
+}
+
+.modal-header .title {
+  font-weight: 500;
+  font-size: 29px;
+}
+
+.modal-header .subtitle {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.modal-header .location {
+  flex: 2;
+  margin: auto;
+}
+
+.modal-header .price {
+  flex: 0 0 230px;
+  height: 100%;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.modal-header .priceButton {
+  margin-top: 20px;
+}
+
+.modal-body {
+  max-height: 60%;
+  height: 60%;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: justify;
+}
+
+.modal-body .skills {
+  display: flex;
+  max-width: 100%;
+  max-height: max-content;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+}
+.skillChip {
+  text-align: center;
+  font-weight: 500;
+  margin: 10px;
+  padding: 5px;
+  width: max-content;
+  border: 2px solid #796efe;
+  border-radius: 5px;
+  background-color: light;
+  box-shadow: 0 0 3px;
 }
